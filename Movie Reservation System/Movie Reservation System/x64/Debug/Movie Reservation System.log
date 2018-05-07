@@ -1,0 +1,10 @@
+﻿  Movie Reservation System.cpp
+d:\oject oriented programming\movie reservation system\movie reservation system\movie reservation system.cpp(182): warning C4101: 'purchase': unreferenced local variable
+d:\oject oriented programming\movie reservation system\movie reservation system\movie reservation system.cpp(178): warning C4101: 'chooseEditOrBuy': unreferenced local variable
+d:\oject oriented programming\movie reservation system\movie reservation system\movie reservation system.cpp(363): warning C4102: 'ExitMenu': unreferenced label
+d:\oject oriented programming\movie reservation system\movie reservation system\movie reservation system.cpp(409): warning C4102: 'ExitMenu': unreferenced label
+d:\oject oriented programming\movie reservation system\movie reservation system\movie reservation system.cpp(807): warning C4474: 'printf' : too many arguments passed for format string
+  d:\oject oriented programming\movie reservation system\movie reservation system\movie reservation system.cpp(807): note: placeholders and their parameters expect 6 variadic arguments, but 7 were provided
+d:\oject oriented programming\movie reservation system\movie reservation system\movie reservation system.cpp(816): warning C4102: 'ExitMenu': unreferenced label
+  Movie Reservation System.vcxproj -> D:\Oject Oriented Programming\Movie Reservation System\x64\Debug\Movie Reservation System.exe
+  Movie Reservation System.vcxproj -> D:\Oject Oriented Programming\Movie Reservation System\x64\Debug\Movie Reservation System.pdb (Full PDB)

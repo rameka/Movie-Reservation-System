@@ -1,0 +1,8 @@
+﻿Movie Reservation System.obj : error LNK2019: unresolved external symbol _mysql_errno@4 referenced in function "void __cdecl AddNewMovie(void)" (?AddNewMovie@@YAXXZ)
+Movie Reservation System.obj : error LNK2019: unresolved external symbol _mysql_init@4 referenced in function "public: static void __cdecl db_response::ConnectionFunction(void)" (?ConnectionFunction@db_response@@SAXXZ)
+Movie Reservation System.obj : error LNK2019: unresolved external symbol _mysql_real_connect@32 referenced in function "public: static void __cdecl db_response::ConnectionFunction(void)" (?ConnectionFunction@db_response@@SAXXZ)
+Movie Reservation System.obj : error LNK2019: unresolved external symbol _mysql_query@8 referenced in function "void __cdecl AddNewMovie(void)" (?AddNewMovie@@YAXXZ)
+Movie Reservation System.obj : error LNK2019: unresolved external symbol _mysql_store_result@4 referenced in function "void __cdecl BookTicket(void)" (?BookTicket@@YAXXZ)
+Movie Reservation System.obj : error LNK2019: unresolved external symbol _mysql_fetch_row@4 referenced in function "void __cdecl BookTicket(void)" (?BookTicket@@YAXXZ)
+libmysql.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+D:\Oject Oriented Programming\Movie Reservation System\Debug\Movie Reservation System.exe : fatal error LNK1120: 6 unresolved externals
