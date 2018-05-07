@@ -1,4 +1,4 @@
-# Movie-Reservation-System-CPP-Application
+# Movie Reservation System 
 
 Designed the database for movie reservation system in MySQL and was implemented using C++. The system allows the user to book their movie tickets, displays the available movies and time, along with the list of reservations made by the user.
 
@@ -17,5 +17,6 @@ Designed the database for movie reservation system in MySQL and was implemented 
 * XAMPP server
 
 ## Note
-MySQL and development environment should be for same architecture, i.e. x86 or x64. Mismatch causes a link error.
+- MySQL and development environment should be for same architecture, i.e. x86 or x64. Mismatch causes a link error.
+- The database file is attached to the application for reference. 
 
